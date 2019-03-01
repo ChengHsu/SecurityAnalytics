@@ -6,7 +6,7 @@ Security analytics course at JHU Fall 2018
 In this project, we use several different machine learning algorithms to automatically predict whether the traffic is malicious or benign based on selected features. 
 Then we compared their performances.
 #### Dataset
- ![dataset](./img/dataset.png=100x50)
+ ![dataset](./img/dataset.png =100x50)
  1. The whole dataset contains about more than 570,000 Network traffic flows, all of which being labeled either as “normal” or “attack”. 
  2. **Under-sampling** is applied to modify the original dataset to obtain a smaller and well-balanced dataset of 70,000 in size, with "normal" and "attack" data proportionally.
  3. Following are the attributes used for training
