@@ -42,8 +42,8 @@ Then we compared their performances.
     * information gain - histogram
     * relevance between each attribute - heat map
  3. Histogram
-  <img src="./img/histogram.png" width="300" height="300" />
+  <img src="./img/histogram.png" width="500" height="500" />
  4. Heatmap
-  <img src="./img/heatmap.png" width="300" height="300" />
+  <img src="./img/heatmap.png" width="500" height="500" />
  
  
