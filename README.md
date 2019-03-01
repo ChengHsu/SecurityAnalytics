@@ -10,7 +10,7 @@ Then we compared their performances.
  1. The whole dataset contains about more than 570,000 Network traffic flows, all of which being labeled either as “normal” or “attack”. 
  2. **Under-sampling** is applied to modify the original dataset to obtain a smaller and well-balanced dataset of 70,000 in size, with "normal" and "attack" data proportionally.
  3. Following are the attributes used for training
-  ![dataset](./img/feature.png)
+  <img src="./img/feature.png" width="800" height="400" />
   
 #### Models Applied
 * Logistic Regression
@@ -42,8 +42,8 @@ Then we compared their performances.
     * information gain - histogram
     * relevance between each attribute - heat map
  3. Histogram
- ![dataset](./img/histogram.png)
+  <img src="./img/histogram.png" width="800" height="400" />
  4. Heatmap
- ![dataset](./img/heatmap.png)
+  <img src="./img/heatmap.png" width="800" height="400" />
  
  
